@@ -12,16 +12,16 @@ css/stiky.css
 
 
 # JavaScript
-js/stiky.js
-js/lib/stikyapp.js
-js/lib/collection/stikynotes.js
-js/lib/view/noteview.js
-js/lib/model/stikynote.js
-js/vendor/require.min.js
-js/vendor/jquery.min.js
-js/vendor/underscore.min.js
-js/vendor/backbone.min.js
-js/vendor/backbone.localstorage.min.js
+stiky.js
+stikyapp.js
+stikynotes.js
+noteview.js
+stikynote.js
+require.min.js
+jquery.min.js
+underscore.min.js
+backbone.min.js
+backbone.localstorage.min.js
 https://www.googletagmanager.com/gtag/js?id=UA-106616773-1
 
 
